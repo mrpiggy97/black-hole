@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    background-color: black;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+canvas{
+    background-color: gold;
+}
